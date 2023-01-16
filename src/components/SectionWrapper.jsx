@@ -8,7 +8,7 @@ const style = {
   imgContainerReverse: `order-last md:order-1 mt-10`,
   sectionImage: `w-full h-full minmd:w-11/12 minmd:h-11/12 object-contain`,
   sectionContent: `flex flex-col items-center md:items-start md:w-[45%] md:max-w-[30rem]`,
-  reverseContent: `md:order-last`,
+  reverseContent: `md:order-last md:justify-center`,
   titleText: `text-3xl sm:text-4xl font-bold text-center md:text-start`,
   descriptionText: `mt-5 mb-5 md:mb-10 text-center text-base sm:text-lg md:text-start`,
   reverseText: `md:text-end md:self-end`,
