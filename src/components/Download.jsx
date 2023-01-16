@@ -17,7 +17,17 @@ const Download = () => {
           <p className={style.descriptionText}>
             Get the full source code on Github
           </p>
-          <button className={style.button}>Source Code</button>
+          <button
+            className={style.button}
+            onClick={() =>
+              window.open(
+                "https://github.com/jsskrh/eneftee-mobile-app",
+                "_blank"
+              )
+            }
+          >
+            Source Code
+          </button>
         </div>
       </div>
     </div>
