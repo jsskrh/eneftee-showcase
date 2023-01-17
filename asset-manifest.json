@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eneftee-showcase/static/css/main.1268a8d8.css",
+    "main.js": "/eneftee-showcase/static/js/main.3e0dc54b.js",
+    "static/js/787.dbc200c5.chunk.js": "/eneftee-showcase/static/js/787.dbc200c5.chunk.js",
+    "index.html": "/eneftee-showcase/index.html",
+    "main.1268a8d8.css.map": "/eneftee-showcase/static/css/main.1268a8d8.css.map",
+    "main.3e0dc54b.js.map": "/eneftee-showcase/static/js/main.3e0dc54b.js.map",
+    "787.dbc200c5.chunk.js.map": "/eneftee-showcase/static/js/787.dbc200c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1268a8d8.css",
+    "static/js/main.3e0dc54b.js"
+  ]
+}
