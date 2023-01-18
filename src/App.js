@@ -1,4 +1,4 @@
-import { assets } from "./assets";
+import assets from "./assets";
 import Download from "./components/Download";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
